@@ -1,5 +1,6 @@
 name: Bogdan Ir
+theme: jekyll-theme-midnight
 markdown: 
 #permalink: /blog/:year/:month/:day/:title
 
-theme: jekyll-theme-midnight
+
