@@ -1,0 +1,38 @@
+<!–– 
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Bogdan Ir</title>
+    
+    <link rel="stylesheet" type="text/css" href="/css/main.css">
+  
+  </head>
+
+
+  <body>
+    <nav>
+<ul>
+<li><a href="/">Home</a></li>
+<li><a href="https://www.linkedin.com/in/bogdanirimescu/">CV</a></li>
+</ul>
+    </nav>
+<div class="container">
+<b> 
+  Bogdan Irimescu's GitHub page:
+</b>
+<br />
+  <br />
+  <li><a href="https://drive.google.com/file/d/1zA09q0NBZuadA9SGebUlwRq4ofRfTYRX/view?usp=sharing">MDF Extractor Tool (executable file)</a></li>
+
+</div>
+  
+  <footer>
+   <ul>
+   <li><a href="mailto:irimescu_bogdan@yahoo.com">email</a></li>
+   <li><a href="https://github.com/bogdanir">github.com/bogdanir</a></li>
+   </ul>
+  </footer>
+  </body>
+
+</html>
+––>
