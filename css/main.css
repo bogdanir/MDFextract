@@ -1,4 +1,4 @@
-body { margin: 60px auto; width: 70%; color: #150fff}
+body { margin: 60px auto; width: 70%; color: #787878}
 
 a { text-decoration: none; color: #999; }
 a:hover { text-decoration: underline; }
@@ -6,7 +6,7 @@ a:hover { text-decoration: underline; }
 b { text-decoration: none; color: #999; }
 b:hover { text-decoration: none; }
 
-p, ul { font-size: 1.5em; line-height: 1.4em; color: #333; }
+p, ul { font-size: 1.5em; line-height: 1.4em; color: #787878; }
 
 h1, h2, h3, h4 { font-family: 'Helvetica', 'Arial', 'Sans-Serif'; }
 h1 { font-size: 3em;  }
