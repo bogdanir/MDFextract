@@ -1,0 +1,3 @@
+[console_scripts]
+mdfconverter = mdfconverter.mdfconverter:main
+
